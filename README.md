@@ -1,2 +1,2 @@
 # Index
-basic html page with whatsapp button
+basic html page with a floating whatsapp button
